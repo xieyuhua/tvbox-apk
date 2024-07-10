@@ -1,0 +1,3 @@
+rootProject.name = "TVBOX"
+include ':app'
+include ':quickjs'
